@@ -12,4 +12,4 @@ npm install
 npx live-server
 ```
 
-If you make changes to either `index.html` or `styles.css` and save, the webpage should be reloaded. You should be able to see the effect of changes that you've made in the browser without taking any additional actions.
+If you make changes to either `index.html` or `styles.css` and save, the webpage should reload. You should be able to see the effects of changes that you've made in the browser without taking any additional actions.
