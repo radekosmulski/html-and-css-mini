@@ -8,47 +8,33 @@
   color: #fff;
   background-color: #5995DA;  /* Blue */
   padding: 20px 0;
-  display: flex;
-  justify-content: center;
 }
 
 .menu {
   width: 900px;
-  display: flex;
-  justify-content: space-around;
 }
 
 .login {
-  margin-left: 20px;
+}
+
+.signup {
 }
 
 .header-container {
   color: #5995DA;
   background-color: #D6E9FE;
-  display: flex;
-  justify-content: center;
 }
 
 .header {
   width: 900px;
   height: 300px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 
 .photo-grid-container {
-  display: flex;
-  justify-content: center;
 }
 
 .photo-grid {
   width: 900px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  flex-direction: row;
 }
 
 .photo-grid-item {
@@ -57,36 +43,25 @@
 }
 
 .photo-grid div:first-child {
-  order: 1;
 }
 
 .photo-grid div:last-child {
-  order: -1;
 }
 
 .footer {
-  display: flex;
-  justify-content: space-between;
 }
 
 .footer-item {
   border: 1px solid #fff;
   background-color: #D6E9FE;
   height: 200px;
-  flex: 1;
 }
 
 .footer-two {
-  flex: 1;
 }
 
 .footer-one,
 .footer-three {
   background-color: #5995DA;
-  flex: initial;
   width: 200px;
-}
-
-.signup {
-  margin-left: auto;
 }
