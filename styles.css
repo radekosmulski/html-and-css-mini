@@ -12,13 +12,13 @@ body {
   display: block;
 }
 
+.container {
+}
+
 .example {
   width: 800px;
   margin: 50px 0;
   background-color: #D6E9FE;
-}
-
-.container {
 }
 
 .item-relative {
