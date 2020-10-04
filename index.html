@@ -5,8 +5,35 @@
   <title></title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
+  <style>
+    .container {
+      display: grid;
+      grid-template-rows: 40px 200px 40px;
+      grid-template-columns: 1fr 4fr;
+      grid-gap: 3px;
+    }
+
+    .header {
+      grid-column-start: 2;
+    }
+    .footer {
+      grid-column: 1 / span 2;
+    }
+    .menu {
+      grid-row-start: 1;
+      grid-row-end: span 2;
+    }
+    .content {
+      grid-column: 2 / -1;
+    }
+  </style>
 </head>
 <body>
-  
+  <div class="container">
+    <div class="header">HEADER</div>
+    <div class="menu">MENU</div>
+    <div class="content">CONTENT</div>
+    <div class="footer">FOOTER</div>
+  </div>
 </body>
 </html>
