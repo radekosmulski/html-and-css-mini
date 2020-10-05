@@ -17,10 +17,12 @@ If you make changes to either `index.html` or `styles.css` and save, the webpage
 There is also a way to use this repository to practice. I created exercises based on two fabulous resources: 
 
 * [internetingishard](https://www.internetingishard.com/)
-* [scrimba free css grid course](https://scrimba.com/learn/R8PTE))
+* [scrimba free css grid course](https://scrimba.com/learn/R8PTE)
 
 To my mind, they stand out among what's available on the Internet, be that paid or free.
 
 I list the exercises below. You can checkout the `starting` branch, see if you can implement the layout from the image and compare to the `done` branch. The starting branch will contain all the code you need to get started.
 
-![](https://github.com/radekosmulski/html-and-css-mini/blob/images/images/internetigishard_flexbox.png?raw=true | width=200)
+| To implement  | starting branch | done branch | learning objective |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/internetigishard_flexbox.png?raw=true" width="200" /> | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_flexbox  | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_flexbox_done | flexbox |
