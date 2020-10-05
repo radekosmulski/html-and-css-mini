@@ -19,7 +19,7 @@ There is also a way to use this repository to practice. I created exercises base
 * [internetingishard](https://www.internetingishard.com/)
 * [scrimba free css grid course](https://scrimba.com/learn/R8PTE)
 
-To my mind, they stand out among what's available on the Internet, be that paid or free.
+My recommendation would be to go to the above, study the material and come here to do the exercises.
 
 I list the exercises below. You can checkout the `starting` branch, see if you can implement the layout from the image and compare to the `done` branch. The starting branch will contain all the code you need to get started.
 
