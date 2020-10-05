@@ -27,9 +27,13 @@ I work on these exercises [having the editor, image of what I am implementing an
 
 I also find having this [awesome flexbox cheatsheet](https://www.alsacreations.com/xmedia/guidelines/flexbox-cheatsheet.pdf) printed out on my desk very helpful.
 
+### flexbox
+
 | To implement  | starting branch | done branch | learning objective |
 | ------------- | ------------- | ------------- | ------------- |
 | <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/internetigishard_flexbox.png?raw=true" width="200" /> | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_flexbox  | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_flexbox_done | flexbox |
 | <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/internetingishard_advanced_pos.png?raw=true" width="200" /> | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_advanced_pos | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_advanced_pos_done | advanced positioning |
 | <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/internetingishard_menu.png?raw=true" width="200" /> | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_menu | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_menu_done | advanced positioning |
 | <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/internetingishard_responsive_design.png?raw=true" width="200" /> | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_responsive_design | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_responsive_design_done | responsive design |
+
+Now that you've exercised your flexbox skills, try [flexbox froggy](https://flexboxfroggy.com/)! It's a fun little browser game to help you practice what you've learned.
