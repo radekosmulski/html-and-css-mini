@@ -30,3 +30,4 @@ I also find having this [awesome flexbox cheatsheet](https://www.alsacreations.c
 | To implement  | starting branch | done branch | learning objective |
 | ------------- | ------------- | ------------- | ------------- |
 | <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/internetigishard_flexbox.png?raw=true" width="200" /> | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_flexbox  | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_flexbox_done | flexbox |
+| <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/internetingishard_advanced_pos.png?raw=true" width="200" /> | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_advanced_pos | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_advanced_pos_done | advanced positioning |
