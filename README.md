@@ -37,3 +37,10 @@ I also find having this [awesome flexbox cheatsheet](https://www.alsacreations.c
 | <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/internetingishard_responsive_design.png?raw=true" width="200" /> | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_responsive_design | https://github.com/radekosmulski/html-and-css-mini/tree/internetingishard_responsive_design_done | responsive design |
 
 Now that you've exercised your flexbox skills, try [flexbox froggy](https://flexboxfroggy.com/)! It's a fun little browser game to help you practice what you've learned.
+
+### grid
+
+| To implement  | starting branch | done branch | learning objective |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/scrimba_grid_3x2.png?raw=true" width="200" /> | https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_3x2  | https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_3x2_done | basic grid |
+| <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/scrimba_grid_3x2.png?raw=true" width="200" /> | https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_3x2  | https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_3x2_repeat_fr_done | <ul><li>repeat(..., ...)</li><li>grid-template</li><ul> |
