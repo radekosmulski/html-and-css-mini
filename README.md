@@ -25,7 +25,7 @@ I list the exercises below. You can checkout the `starting` branch, see if you c
 
 I work on these exercises [having the editor, image of what I am implementing and a browser window open on my screen](https://github.com/radekosmulski/html-and-css-mini/blob/images/images/me_doing_exercises.png?raw=true). By saving I can immediately see any changes that I have made. This is a really good environment for learning as it allows me to try out many things very quickly.
 
-I also find having this [awesome flexbox cheatsheet](https://www.alsacreations.com/xmedia/guidelines/flexbox-cheatsheet.pdf) printed out on my desk very helpful.
+I also find having this [awesome flexbox cheatsheet](https://www.alsacreations.com/xmedia/guidelines/flexbox-cheatsheet.pdf) and this [wonderful grid cheatsheet](https://github.com/alsacreations/guidelines/blob/master/grid-cheatsheet.pdf) printed out on my desk very helpful.
 
 ### flexbox
 
