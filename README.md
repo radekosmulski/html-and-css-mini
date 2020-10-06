@@ -49,7 +49,9 @@ Now that you've exercised your flexbox skills, try [flexbox froggy](https://flex
 | <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/scrimba_grid_autofit_minmax.png?raw=true" width="200" /> | [scrimba_grid_autofit_minmax](https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_autofit_minmax)  | [scrimba_grid_autofit_minmax_done](https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_autofit_minmax_done) | <ul><li>auto-fit / auto-fill</li><li>minmax</li><ul> |
 | <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/scrimba_grid_auto_rows.png?raw=true" width="200" /> | [scrimba_grid_autofit_minmax](https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_autofit_minmax)  | [scrimba_grid_auto_rows_done](https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_auto_rows_done) | <ul><li>grid-auto-rows</li><ul> |
   | <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/scrimba_grid_image_grid.png?raw=true" width="200" /> | [scrimba_grid_image_grid](https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_image_grid)  | [scrimba_grid_image_grid_done](https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_image_grid_done) | <ul><li>grid-column</li><li>grid-row</li><li>grid-auto-flow</li><ul> |
-  
+ 
+ To further hone your grid skills, you can give [css grid garden](https://cssgridgarden.com/) a try. It's a fun little browser game for exploring css grid.
+ 
   ### Extras
   
   Branches demonstrating integrating other libraries with the basic setup available on the `main` branch.
