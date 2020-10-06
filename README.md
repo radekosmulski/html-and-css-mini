@@ -49,7 +49,7 @@ Now that you've exercised your flexbox skills, try [flexbox froggy](https://flex
   
   ### Extras
   
-  Branches demonstrating integrating other libraries with the basic setup available on the `main` brach.
+  Branches demonstrating integrating other libraries with the basic setup available on the `main` branch.
   
 | additional functionality  | branch name |
 | ------------- | ------------- |
