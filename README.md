@@ -46,3 +46,11 @@ Now that you've exercised your flexbox skills, try [flexbox froggy](https://flex
 | <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/scrimba_grid_3x2_repeat_fr.png?raw=true" width="200" /> | [scrimba_grid_3x2](https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_3x2)  | [scrimba_grid_3x2_repeat_fr_done](https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_3x2_repeat_fr_done) | <ul><li>repeat(..., ...)</li><li>grid-template</li><li>fr /auto</li><ul> |
 | <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/scrimba_grid_miniwebsite.png?raw=true" width="200" /> | [scrimba_grid_miniwebsite](https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_miniwebsite)  | [scrimba_grid_miniwebsite_done](https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_miniwebsite_done) | <ul><li>grid-column/row-start/end</li><li>gird-row/column</li><li>span, -1</li><ul> |
 | <img src="https://github.com/radekosmulski/html-and-css-mini/blob/images/images/scrimba_grid_template_areas.png?raw=true" width="200" /> | [scrimba_grid_template_areas](https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_template_areas)  | [scrimba_grid_template_areas_done](https://github.com/radekosmulski/html-and-css-mini/tree/scrimba_grid_template_areas_done) | <ul><li>height: 100%</li><li>grid-template-areas</li><li>grid-area</li><ul> |
+  
+  ### Extras
+  
+  Branches demonstrating integrating other libraries with the basic setup available at `main`
+  
+| additional functionality  | branch name |
+| ------------- | ------------- |
+| <ul><li>jquery</li><li>google fonts</li></ul> | [extras_jquery_and_google_fonts](https://github.com/radekosmulski/html-and-css-mini/tree/extras_jquery_and_google_fonts) |
