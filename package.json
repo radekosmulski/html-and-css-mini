@@ -1,0 +1,27 @@
+{
+  "name": "html-and-css-mini",
+  "version": "1.0.0",
+  "description": "Minimal setup to start hacking on a website using HTML & CSS.",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss styles.css -o tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radekosmulski/html-and-css-mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radekosmulski/html-and-css-mini/issues"
+  },
+  "homepage": "https://github.com/radekosmulski/html-and-css-mini#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "liveserver": "^0.1.20",
+    "postcss": "^8.1.1",
+    "postcss-cli": "^8.1.0",
+    "tailwindcss": "^1.8.13"
+  }
+}
