@@ -59,3 +59,4 @@ Now that you've exercised your flexbox skills, try [flexbox froggy](https://flex
 | additional functionality  | branch name |
 | ------------- | ------------- |
 | <ul><li>jquery</li><li>google fonts</li></ul> | [extras_jquery_and_google_fonts](https://github.com/radekosmulski/html-and-css-mini/tree/extras_jquery_and_google_fonts) |
+| <ul><li>tailwindcss</li></ul> | [tailwindcss](https://github.com/radekosmulski/html-and-css-mini/tree/tailwindcss) |
