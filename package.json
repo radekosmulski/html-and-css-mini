@@ -4,7 +4,8 @@
   "description": "Minimal setup to start hacking on a website using HTML & CSS.",
   "main": "index.js",
   "scripts": {
-    "build": "postcss styles.css -o tailwind.css"
+    "build": "postcss styles.css -o tailwind.css",
+    "watch": "postcss styles.css -o tailwind.css --watch"
   },
   "repository": {
     "type": "git",
